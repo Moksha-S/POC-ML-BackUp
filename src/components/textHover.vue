@@ -5,13 +5,8 @@
       {{ $t(fieldName) }}
     </h3>
     <EditBox :hover="hover" :fieldName="fieldName"></EditBox>
-    <h3 class="car-card-text">
-      <span v-if="textType == 'number'">
-        {{ $n(textData, "currency", $i18n.locale) }}
-      </span>
-      <span v-else>
-        {{ textData }}
-      </span>
+    <h3 notranslate class="car-card-text">
+      {{ textData }}
     </h3>
   </div>
   <!-- </div> -->
@@ -29,11 +24,6 @@ export default {
       editedData: "",
       localeMessage: {},
     };
-  },
-  computed: {
-    textType() {
-      return typeof this.textData;
-    },
   },
 
   components: { EditBox },

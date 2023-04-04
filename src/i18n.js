@@ -43,36 +43,8 @@ function getStartingLocale() {
   }
 }
 
-const numberFormats = {
-  'en': {
-    currency: {
-      style: 'currency', currency: 'USD'
-    },
-    percent: {
-      style: 'percent'
-    }
-  },
-  'es': { 
-    currency: {
-      style: 'currency', currency: 'EUR'
-    },
-    percent: {
-      style: 'percent'
-    }
-  },
-  'ar': { 
-    currency: {
-      style: 'currency', currency: 'AED'
-    },
-    percent: {
-      style: 'percent'
-    }
-  }
-}
-
 export default new VueI18n({
   locale: getStartingLocale(),
   fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || "en",
   messages: loadLocaleMessages(),
-  numberFormats
 });
