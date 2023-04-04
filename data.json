@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Carrots"
+    },
+    {
+      "id": 1,
+      "name": "Cabbage"
+    },
+    {
+      "id": 2,
+      "name": "Banana"
+    },
+    {
+      "id": 0,
+      "name": "Cakes"
+    },
+    {
+      "key": "demo",
+      "id": 3
+    },
+    {
+      "key": "moksha",
+      "id": 4
+    }
+  ],
+  "ar": {
+    "message": "مرحبًا i18n !!",
+    "user_greeting": "مرحبًا, {name}",
+    "title": "مرحبًا بك في CarSaver!",
+    "welcomeString": "الأسعار المنخفضة اليومية للسيارات الجديدة والمستعملة",
+    "carName": "#$@%^&%$#@!#$%",
+    "carPrice": "سعر:",
+    "carModel": "@!#$%^&",
+    "carColor": "لون السيارة:",
+    "viewDetails": "عرض التفاصيل",
+    "nav-home": "الرئيسية",
+    "nav-about": "نبذة عنا",
+    "about-title": "نبذة عنا",
+    "about-para1": "لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي.",
+    "about-para2": "و سأعرض مثال حي لهذا، من منا لم يتحمل جهد بدني شاق إلا من أجل الحصول على ميزة أو فائدة؟ ولكن من لديه الحق أن ينتقد شخص ما أراد أن يشعر بالسعادة التي لا تشوبها عواقب أليمة أو آخر أراد أن يتجنب الألم الذي ربما تنجم عنه بعض المتعة ؟ ",
+    "about-para3": "علي الجانب الآخر نشجب ونستنكر هؤلاء الرجال المفتونون بنشوة اللحظة الهائمون في رغباتهم فلا يدركون ما يعقبها من الألم والأسي المحتم، واللوم كذلك يشمل هؤلاء الذين أخفقوا في واجباتهم نتيجة لضعف إرادتهم فيتساوي مع هؤلاء الذين يتجنبون وينأون عن تحمل الكدح والألم ."
+  },
+  "en": {
+    "message": "hello i18n !!",
+    "user_greeting": "Hello, {name}",
+    "title": "Welcome to CarSaver!",
+    "welcomeString": "Everyday Low Prices on New & Used Cars",
+    "carName": "name is.......",
+    "carPrice": "Price:",
+    "carModel": "Car model:",
+    "carColor": "Car color:",
+    "viewDetails": "View Details",
+    "nav-home": "Home",
+    "nav-about": "About",
+    "about-title": "About Us",
+    "about-para1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt nobis sapiente quos officia vitae. Minus blanditiis doloremque error at consectetur magni nam voluptatem pariatur! Itaque deleniti delectus odio accusantium quas?",
+    "about-para2": "Non eius beatae dolorum impedit enim repudiandae nulla ipsum animi. Ullam qui libero possimus aliquam, praesentium ipsam omnis, ab aut culpa reprehenderit odio sapiente ex molestias maiores? Temporibus, molestiae eum!",
+    "about-para3": "Consectetur illo nobis, nemo necessitatibus quos corporis voluptates enim totam itaque ratione et ad iste corrupti eaque ex quas commodi. Perspiciatis vel quo consectetur quas nulla explicabo harum ratione consequatur."
+  },
+  "es": {
+    "message": "Hola i18n !!",
+    "user_greeting": "Hola, {name}",
+    "title": "¡Bienvenido a Car Saver!",
+    "welcomeString": "Precios bajos todos los días en autos nuevos y usados",
+    "carName": "Nombre del coche:",
+    "carPrice": "Precio:",
+    "carModel": "Modelo de auto:",
+    "carColor": "Color del coche:",
+    "viewDetails": "Ver detalles",
+    "nav-home": "Casa",
+    "nav-about": "Sobre",
+    "about-title": "Sobre nosotras",
+    "about-para1": "La empresa en sí es una empresa muy exitosa. Los sabios no saben cuáles son los deberes de la vida. ¡Con menos adulación y dolor, el error será seguido por un gran placer! ¿Y entonces los elegidos que fueron odiados por los acusadores?",
+    "about-para2": "No es su bendito dolor lo que le impide repudiarlo. Cualquiera que liberemos a cualquiera, todo el presente, ¿reprenderá con odio o culpa de un hombre sabio para mayores problemas? ¡A veces, pruébalo!",
+    "about-para3": "Quedémonos atados por él, y ninguna de las necesidades de la vida, porque los placeres del cuerpo son en toda razón corrompidos para él, y aquellos de los cuales nos aprovechamos. Veamos cuáles son las consecuencias, que no explicaré."
+  }
+}
